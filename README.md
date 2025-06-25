@@ -23,5 +23,5 @@ A fan-friendly one-page site to showcase my ultimate cricket team with exciting 
 ## Links
 
 - [Live Demo]([https://your-netlify-or-github-pages-link.com](https://ganeshdornala.github.io/Squad_Goals/))
-- [GitHub Repo](https://github.com/yourusername/dream-cricket-team)
+- [GitHub Repo]([https://github.com/yourusername/dream-cricket-team](https://github.com/ganeshdornala/Squad_Goals))
   Made by Ganesh
